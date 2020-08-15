@@ -1,1 +1,1 @@
-# SubmatrixProblem
+Given a number of rows and columns, generate a grid of continuous numbers starting from 1. Generate a list of all the sub-columns, sub-rows and sub-diagonals(including offset diagonals and reverse diagonal) of length 3.
